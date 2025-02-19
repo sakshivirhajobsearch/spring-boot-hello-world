@@ -1,4 +1,4 @@
-package com.javapoint;
+package com.example.test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
